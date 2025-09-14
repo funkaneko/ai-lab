@@ -1,0 +1,8 @@
+# CHANGELOG — Day 2 API setup (generated 2025-09-14T07:57:12)
+- Added .env.example and .gitignore (keep secrets local)
+- Added src/check_env.py (verifies keys without printing them)
+- Added src/test_openai.py (Responses API with fallback)
+- Added src/test_anthropic.py (Messages API)
+- Added src/utils.py (save outputs as .txt and .json)
+- Added samples/policy_snippet_en.txt
+- Added README_DAY2.md with step-by-step guide

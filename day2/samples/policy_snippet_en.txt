@@ -1,0 +1,5 @@
+Telemedicine Coverage Pilot — Summary
+The health insurer will reimburse video consultations for primary care and mental health, capped at 20 minutes per session. 
+Clinics must document consent, verify patient identity at each visit, and record ICD-10 codes. 
+Equity requirement: providers must offer a phone-based fallback for patients without stable internet. 
+Evaluation metrics include wait-time reduction, no-show rate, and patient-reported access. Funding sunsets after 12 months unless extended.
