@@ -1,0 +1,8 @@
+{
+  "bullets": [
+    "Problem**: Limited patient access to primary care and mental health services, evidenced by wait times and no-show rates",
+    "Intervention**: Video consultation reimbursement (20-min cap) with phone fallback option, requiring consent documentation, identity verification, and ICD-10 coding",
+    "Measurable Outcome**: Reduced wait times, decreased no-show rates, and improved patient-reported access scores"
+  ],
+  "risk": "risk"
+}
