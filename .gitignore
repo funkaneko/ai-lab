@@ -34,3 +34,10 @@ day4/.venv/
 # (optional) run artifacts
 # day4/outputs/*
 ai-lab-day4-starter.zip
+.env
+*.env
+.env.*
+.venv/
+__pycache__/
+.DS_Store
+outputs/
