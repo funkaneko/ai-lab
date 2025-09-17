@@ -19,3 +19,17 @@ ENV*/
 
 # Secrets
 .env
+.env
+.env.*
+*.env
+*.key
+*.pem
+
+# mac + python noise
+.DS_Store
+__pycache__/
+*.pyc
+day4/.venv/
+
+# (optional) run artifacts
+# day4/outputs/*

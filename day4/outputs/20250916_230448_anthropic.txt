@@ -1,0 +1,4 @@
+{
+  "bullets": ["Expands telemedicine coverage to rural areas with quality and cost efficiency goals", "Staged deployment planned with regular audits and ministry oversight", "Concerns include data privacy, device access inequality, and staff burden"],
+  "risk": "risk"
+}

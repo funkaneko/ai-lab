@@ -1,0 +1,4 @@
+{
+  "bullets": ["Pilot aims to improve access to healthcare services.", "No sensitive data involved in the pilot.", "Budget for the pilot has been approved."],
+  "risk": "ok"
+}
